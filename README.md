@@ -20,9 +20,9 @@
 <tr>
 <td valign="top" width="58%">
 
-Full-stack developer who ships production web applications, REST APIs, and client-facing platforms for real clients and coursework. Computer Science student at the University of Technology, Jamaica with a 3.7 GPA and Dean's List standing.
+Full-stack developer who ships production web applications, REST APIs, and client-facing platforms across coursework and deployed builds. Computer Science student at the University of Technology, Jamaica with a 3.7 GPA and Dean's List standing.
 
-I bring disciplined engineering from data structures, databases, and networking into code I can run, test, and deploy: validated APIs, responsive React and Next.js front ends, and releases that hold up in production on Vercel and Railway. Currently delivering contract full-stack work for <a href="https://weroi.net">weROI</a> and open to internship and co-op roles where I can contribute on a team under mentorship.
+I bring disciplined engineering from data structures, databases, and networking into code I can run, test, and deploy: validated APIs, responsive React and Next.js front ends, and releases that hold up in production on Vercel and Railway. Built and shipped features for the <a href="https://weroi.net">weROI</a> agency platform and open to internship and co-op roles where I can contribute on a team under mentorship.
 
 </td>
 <td valign="top" width="42%">
@@ -42,12 +42,12 @@ I bring disciplined engineering from data structures, databases, and networking 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A5B4FC&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+%7C+CS+%40+UTech;REST+APIs+%7C+React+%26+FastAPI;Security-aware+engineering;Contract+delivery+%7C+weROI;Open+to+internships+%26+co-ops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A5B4FC&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+%7C+CS+%40+UTech;REST+APIs+%7C+React+%26+FastAPI;Security-aware+engineering;Agency+platform+%7C+weROI;Open+to+internships+%26+co-ops)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zachary--hutton--portfolio.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://zachary-hutton-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zachary%20Hutton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-hutton-a2ab81415/)
 [![Email](https://img.shields.io/badge/Email-hzach577%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hzach577@gmail.com)
-[![weROI](https://img.shields.io/badge/weROI-Contract+Full--Stack-312e81?style=for-the-badge&logo=rocket&logoColor=white)](https://weroi.net)
+[![weROI](https://img.shields.io/badge/weROI-Agency+Platform-312e81?style=for-the-badge&logo=rocket&logoColor=white)](https://weroi.net)
 
 </div>
 
@@ -65,7 +65,7 @@ I bring disciplined engineering from data structures, databases, and networking 
 <li><strong>REST APIs</strong> with Pydantic validation, JWT authentication, and clear OpenAPI docs</li>
 <li><strong>Data layers</strong> across MongoDB Atlas, SQL, and SQLite with thoughtful schema design</li>
 <li><strong>Production deployment</strong> on Vercel and Railway with env-based config and health checks</li>
-<li><strong>Client-ready delivery</strong> from scoped requirements through tested, maintainable releases</li>
+<li><strong>End-to-end shipping</strong> from scoped requirements through tested, maintainable releases</li>
 <li><strong>Security-aware patterns</strong> including input validation, auth flows, and OWASP-informed review</li>
 </ul>
 
@@ -75,7 +75,7 @@ I bring disciplined engineering from data structures, databases, and networking 
 <h4>Current focus</h4>
 <ul>
 <li><strong>Coursework</strong> in data structures, databases, and networking at UTech</li>
-<li><strong>Contract full-stack work</strong> for <a href="https://weroi.net">weROI</a> (React + FastAPI + MongoDB)</li>
+<li><strong>weROI agency platform</strong> — production full-stack build with React, FastAPI, and MongoDB (<a href="https://weroi.net">weroi.net</a>)</li>
 <li><strong>Portfolio projects</strong> including StudySync API, Webhook Relay, and ministry platforms</li>
 <li><strong>Deliberate practice</strong> in secure coding, Linux CLI, and API design fundamentals</li>
 <li><strong>Seeking</strong> internship and co-op roles where I can contribute on a team under mentorship</li>
@@ -137,4 +137,8 @@ I bring disciplined engineering from data structures, databases, and networking 
 
 <p align="center"><sub>◆ ◇ ◆</sub></p>
 
-<p align="center"><sub><em>"See pinned repositories below"</em></sub></p>
+<p align="center">
+  <a href="https://github.com/zacharyahutton?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1800&color=A5B4FC&background=09090B00&center=true&vCenter=true&width=560&lines=%22See+pinned+repositories+below%22" alt="See pinned repositories below" />
+  </a>
+</p>

@@ -1,34 +1,44 @@
 <!-- profile-readme: zacharyahutton -->
 
+<div align="center">
+
+<h1><strong>Zachary Hutton</strong></h1>
+
+<p>
+  <img src="https://img.shields.io/badge/CS-%40%20UTech-6366f1?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="CS @ UTech" />
+  <img src="https://img.shields.io/badge/GPA-3.7-312e81?style=for-the-badge&logo=chart-line&logoColor=white" alt="GPA 3.7" />
+  <img src="https://img.shields.io/badge/Dean's%20List-Honours-4338ca?style=for-the-badge&logo=award&logoColor=white" alt="Dean's List" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-a5b4fc?style=for-the-badge&logo=react&logoColor=09090b" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Open-Internships%20%26%20Co--ops-6366f1?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to internships and co-ops" />
+</p>
+
+<p><strong>Full-Stack Developer</strong> · Portmore, Jamaica · Graduation May 2029</p>
+
+</div>
+
 <table width="100%">
 <tr>
 <td valign="top" width="58%">
 
-### Zachary Hutton
+Full-stack developer who ships production web applications, REST APIs, and client-facing platforms for real clients and coursework. Computer Science student at the University of Technology, Jamaica with a 3.7 GPA and Dean's List standing.
 
-**CS @ UTech** · GPA 3.7 · Dean's List · Portmore, Jamaica
-
-Full-stack developer who ships production web applications, REST APIs, and client-facing platforms. I connect rigorous coursework to code I can run, test, and deploy.
+I bring disciplined engineering from data structures, databases, and networking into code I can run, test, and deploy: validated APIs, responsive React and Next.js front ends, and releases that hold up in production on Vercel and Railway. Currently delivering contract full-stack work for [weROI](https://weroi.net) and open to internship and co-op roles where I can contribute on a team under mentorship.
 
 </td>
 <td valign="top" width="42%">
 
 <div align="right">
 
-![CS Student](https://img.shields.io/badge/CS-%40%20UTech-6366f1?style=flat-square&logo=graduation-cap&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-Developer-312e81?style=flat-square&logo=react&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open-Internships%20%26%20Co--ops-4338ca?style=flat-square)
-
-</div>
-
-<br />
-
 | | |
 |:--|--:|
 | **GPA** | 3.7 |
 | **Honour** | Dean's List |
 | **Graduation** | May 2029 |
+| **Location** | Portmore, Jamaica |
 | **Status** | Open to internships & co-ops |
+| **Portfolio** | [zachary-hutton-portfolio.vercel.app](https://zachary-hutton-portfolio.vercel.app/) |
+
+</div>
 
 </td>
 </tr>

@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Open-Internships%20%26%20Co--ops-6366f1?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to internships and co-ops" />
 </p>
 
-<p><strong>Full-Stack Developer</strong> · Portmore, Jamaica · Graduation May 2029</p>
+<p>Portmore, Jamaica · BSc Computer Science · May 2029</p>
 
 </div>
 
@@ -42,7 +42,7 @@ I bring disciplined engineering from data structures, databases, and networking 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A5B4FC&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+%7C+CS+%40+UTech;REST+APIs+%7C+React+%26+FastAPI;Security-aware+engineering;Agency+platform+%7C+weROI;Open+to+internships+%26+co-ops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A5B4FC&center=true&vCenter=true&width=540&lines=TypeScript+%7C+Python+%7C+React;Building+APIs+%26+web+applications;Security-aware+engineering;Agency+platform+%7C+weROI;Open+to+internships+%26+co-ops)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-zachary--hutton--portfolio.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://zachary-hutton-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zachary%20Hutton-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-hutton-a2ab81415/)

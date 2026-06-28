@@ -135,8 +135,6 @@ I bring disciplined engineering from data structures, databases, and networking 
 
 <br />
 
-<div align="center">
+<p align="center"><sub>◆ ◇ ◆</sub></p>
 
-<strong>Pinned repositories:</strong> portfolio · weROI · StudySync API · Webhook Relay · OpenAPI DevKit · Phone Store API
-
-</div>
+<p align="center"><sub><em>"See pinned repositories below"</em></sub></p>

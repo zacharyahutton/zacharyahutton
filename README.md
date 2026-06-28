@@ -22,23 +22,19 @@
 
 Full-stack developer who ships production web applications, REST APIs, and client-facing platforms for real clients and coursework. Computer Science student at the University of Technology, Jamaica with a 3.7 GPA and Dean's List standing.
 
-I bring disciplined engineering from data structures, databases, and networking into code I can run, test, and deploy: validated APIs, responsive React and Next.js front ends, and releases that hold up in production on Vercel and Railway. Currently delivering contract full-stack work for [weROI](https://weroi.net) and open to internship and co-op roles where I can contribute on a team under mentorship.
+I bring disciplined engineering from data structures, databases, and networking into code I can run, test, and deploy: validated APIs, responsive React and Next.js front ends, and releases that hold up in production on Vercel and Railway. Currently delivering contract full-stack work for <a href="https://weroi.net">weROI</a> and open to internship and co-op roles where I can contribute on a team under mentorship.
 
 </td>
 <td valign="top" width="42%">
 
-<div align="right">
-
-| | |
-|:--|--:|
-| **GPA** | 3.7 |
-| **Honour** | Dean's List |
-| **Graduation** | May 2029 |
-| **Location** | Portmore, Jamaica |
-| **Status** | Open to internships & co-ops |
-| **Portfolio** | [zachary-hutton-portfolio.vercel.app](https://zachary-hutton-portfolio.vercel.app/) |
-
-</div>
+<table align="right">
+<tr><td align="right"><strong>GPA</strong></td><td align="right">3.7</td></tr>
+<tr><td align="right"><strong>Honour</strong></td><td align="right">Dean's List</td></tr>
+<tr><td align="right"><strong>Graduation</strong></td><td align="right">May 2029</td></tr>
+<tr><td align="right"><strong>Location</strong></td><td align="right">Portmore, Jamaica</td></tr>
+<tr><td align="right"><strong>Status</strong></td><td align="right">Open to internships &amp; co-ops</td></tr>
+<tr><td align="right"><strong>Portfolio</strong></td><td align="right"><a href="https://zachary-hutton-portfolio.vercel.app/">zachary-hutton-portfolio.vercel.app</a></td></tr>
+</table>
 
 </td>
 </tr>
@@ -63,25 +59,27 @@ I bring disciplined engineering from data structures, databases, and networking 
 <tr>
 <td valign="top" width="50%">
 
-#### What I deliver
-
-- **Full-stack builds** with React, Next.js, TypeScript, Python, and FastAPI
-- **REST APIs** with Pydantic validation, JWT authentication, and clear OpenAPI docs
-- **Data layers** across MongoDB Atlas, SQL, and SQLite with thoughtful schema design
-- **Production deployment** on Vercel and Railway with env-based config and health checks
-- **Client-ready delivery** from scoped requirements through tested, maintainable releases
-- **Security-aware patterns** including input validation, auth flows, and OWASP-informed review
+<h4>What I deliver</h4>
+<ul>
+<li><strong>Full-stack builds</strong> with React, Next.js, TypeScript, Python, and FastAPI</li>
+<li><strong>REST APIs</strong> with Pydantic validation, JWT authentication, and clear OpenAPI docs</li>
+<li><strong>Data layers</strong> across MongoDB Atlas, SQL, and SQLite with thoughtful schema design</li>
+<li><strong>Production deployment</strong> on Vercel and Railway with env-based config and health checks</li>
+<li><strong>Client-ready delivery</strong> from scoped requirements through tested, maintainable releases</li>
+<li><strong>Security-aware patterns</strong> including input validation, auth flows, and OWASP-informed review</li>
+</ul>
 
 </td>
 <td valign="top" width="50%">
 
-#### Current focus
-
-- **Coursework** in data structures, databases, and networking at UTech
-- **Contract full-stack work** for [weROI](https://weroi.net) (React + FastAPI + MongoDB)
-- **Portfolio projects** including StudySync API, Webhook Relay, and ministry platforms
-- **Deliberate practice** in secure coding, Linux CLI, and API design fundamentals
-- **Seeking** internship and co-op roles where I can contribute on a team under mentorship
+<h4>Current focus</h4>
+<ul>
+<li><strong>Coursework</strong> in data structures, databases, and networking at UTech</li>
+<li><strong>Contract full-stack work</strong> for <a href="https://weroi.net">weROI</a> (React + FastAPI + MongoDB)</li>
+<li><strong>Portfolio projects</strong> including StudySync API, Webhook Relay, and ministry platforms</li>
+<li><strong>Deliberate practice</strong> in secure coding, Linux CLI, and API design fundamentals</li>
+<li><strong>Seeking</strong> internship and co-op roles where I can contribute on a team under mentorship</li>
+</ul>
 
 </td>
 </tr>
@@ -139,14 +137,6 @@ I bring disciplined engineering from data structures, databases, and networking 
 
 <div align="center">
 
-**Pinned repositories:** portfolio · weROI · StudySync API · Webhook Relay · OpenAPI DevKit · Phone Store API
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zacharyahutton/zacharyahutton/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zacharyahutton/zacharyahutton/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zacharyahutton/zacharyahutton/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<strong>Pinned repositories:</strong> portfolio · weROI · StudySync API · Webhook Relay · OpenAPI DevKit · Phone Store API
 
 </div>

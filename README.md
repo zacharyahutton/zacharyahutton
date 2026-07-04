@@ -187,16 +187,6 @@ I connect coursework in data structures, databases, and networking to code I can
 
 <div align="center">
 
-<h2><img src="https://img.shields.io/badge/📌-Pinned_repositories-14532d?style=for-the-badge&logo=github&logoColor=fbbf24" alt="Pinned repositories" /></h2>
-
-<em>Some of my most proud open-source work — explore the repositories pinned below.</em>
-
-</div>
-
----
-
-<div align="center">
-
 **Open to internships & co-ops** · Kingston area & remote
 
 <br />
@@ -207,5 +197,15 @@ I connect coursework in data structures, databases, and networking to code I can
 <br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0a,50:14532d,100:d97706&height=80&section=footer&text=&fontSize=0" width="100%" alt="" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h2><img src="https://img.shields.io/badge/See-pinned_repositories_below-14532d?style=for-the-badge&logo=github&logoColor=fbbf24" alt="See pinned repositories below" /></h2>
+
+<em>Some of my most proud open-source work — explore the repositories pinned below.</em>
 
 </div>

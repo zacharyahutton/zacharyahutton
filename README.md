@@ -111,7 +111,6 @@ I connect coursework in data structures, databases, and networking to code I can
 
 | Project | Stack | Highlights | Links |
 |:--|:--|:--|:--|
-| **[weROI Agency Platform](https://weroi.net)** | React · FastAPI · MongoDB · JWT · Resend | Production agency stack — lead capture, admin dashboard, multi-step audit forms, email integration | [Live](https://weroi.net) · [Repo](https://github.com/zacharyahutton/weROI) |
 | **[Telegram Bot Demo](https://t.me/zachtedem_bot)** | Python · FastAPI · SQLite · Groq · Webhooks | Live messaging bot — appointment booking, FAQ flows, LLM chat, Railway webhook server | [Bot](https://t.me/zachtedem_bot) · [Repo](https://github.com/zacharyahutton/telegram-bot-demo) |
 | **[Webhook Relay API](https://github.com/zacharyahutton/webhook-relay-api)** | Python · FastAPI · HMAC · Redis | Sandbox for outbound webhooks — API keys, signed delivery, exponential backoff, rate limits | [Repo](https://github.com/zacharyahutton/webhook-relay-api) |
 | **[StudySync API](https://github.com/zacharyahutton/studysync-api)** | Python · FastAPI · SQLAlchemy · JWT | Coursework deadline tracker — auth, CRUD modules, OpenAPI docs, pytest | [Repo](https://github.com/zacharyahutton/studysync-api) |

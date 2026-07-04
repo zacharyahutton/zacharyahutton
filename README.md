@@ -20,7 +20,7 @@
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=fbbf24&center=true&vCenter=true&width=560&lines=Python+%7C+FastAPI+%7C+React+%7C+Next.js;Messaging+bots+%26+webhook+APIs;Production+deploys+on+Vercel+%26+Railway;Security-aware+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=fbbf24&center=true&vCenter=true&width=560&lines=Python+%7C+FastAPI+%7C+React+%7C+Next.js;Messaging+bots+%26+webhook+APIs;Production+deploys+on+Vercel+%26+Railway;Security-aware+engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -162,7 +162,7 @@ I connect coursework in data structures, databases, and networking to code I can
 <tr>
 <td valign="top" width="50%">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zacharyahutton&show_icons=true&theme=react&hide_border=true&bg_color=0a0f0a&title_color=fbbf24&icon_color=15803d&text_color=d1fae5&border_radius=10&include_all_commits=true&count_private=false" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-alpha.vercel.app/api?username=zacharyahutton&show_icons=true&theme=react&hide_border=true&bg_color=0a0f0a&title_color=fbbf24&icon_color=15803d&text_color=d1fae5&border_radius=10&include_all_commits=true&count_private=false" alt="GitHub stats" />
 
 </td>
 <td valign="top" width="50%">
@@ -174,11 +174,22 @@ I connect coursework in data structures, databases, and networking to code I can
 <tr>
 <td colspan="2" align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyahutton&layout=compact&theme=react&hide_border=true&bg_color=0a0f0a&title_color=fbbf24&text_color=d1fae5&border_radius=10&langs_count=10" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=zacharyahutton&layout=compact&theme=react&hide_border=true&bg_color=0a0f0a&title_color=fbbf24&text_color=d1fae5&border_radius=10&langs_count=10" alt="Top languages" />
 
 </td>
 </tr>
 </table>
+
+</div>
+
+
+---
+
+<div align="center">
+
+<h2><img src="https://img.shields.io/badge/📌-Pinned_repositories-14532d?style=for-the-badge&logo=github&logoColor=fbbf24" alt="Pinned repositories" /></h2>
+
+<em>Some of my most proud open-source work — explore the repositories pinned below.</em>
 
 </div>
 

@@ -250,26 +250,26 @@ E-commerce REST API — auth, inventory, cart, checkout, order hooks.
 <div align="center">
 
 <!-- mirrors that actually respond (primary vercel.app is frequently 503) -->
-<img height="168" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zacharyahutton&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=f59e0b&icon_color=14b8a6&text_color=e2e8f0&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="168" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zacharyahutton&theme=dark&hide_border=true&background=020617&ring=0f766e&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e2e8f0&dates=94a3b8&stroke=1e293b" alt="GitHub streak" />
+<img height="168" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zacharyahutton&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=f59e0b&icon_color=14b8a6&text_color=e2e8f0&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+<img height="168" src="https://streak-stats.demolab.com/?user=zacharyahutton&theme=dark&hide_border=true&background=020617&ring=0f766e&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e2e8f0&dates=94a3b8&stroke=1e293b" alt="GitHub streak" />
 
 <br/>
 
-<img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zacharyahutton&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=020617&title_color=f59e0b&text_color=e2e8f0" alt="Top languages" />
+<img height="165" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zacharyahutton&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=020617&title_color=f59e0b&text_color=e2e8f0&cache_seconds=1800" alt="Top languages" />
 
 <br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zacharyahutton&theme=radical" height="180" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zacharyahutton&theme=radical" height="180" alt="Most commit language" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zacharyahutton&bg_color=020617&color=14b8a6&line=f59e0b&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" width="100%" />
-
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zacharyahutton&theme=radical" height="180" alt="Productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zacharyahutton&theme=radical" height="180" alt="Summary stats" />
+<img src="https://img.shields.io/github/followers/zacharyahutton?style=for-the-badge&logo=github&label=Followers&color=0f766e" alt="Followers" />
+<img src="https://img.shields.io/github/stars/zacharyahutton?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f59e0b" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=zacharyahutton&label=Profile%20views&color=14b8a6&style=for-the-badge" alt="Profile views" />
+
+
+<br/>
 
 </div>
 

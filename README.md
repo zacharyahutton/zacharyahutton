@@ -40,7 +40,7 @@
 
 I build **end-to-end product systems** — not demos. Typed FastAPI backends, webhook pipelines that survive retries, Next.js frontends with real motion, and LLM features wired into workflows people actually use.
 
-Right now that looks like contract delivery on **[weROI](https://weroi.net)**, live Telegram bots on **Railway**, and polished sites on **Vercel** — with JWT, HMAC signing, rate limits, and validation treated as defaults, not afterthoughts.
+Right now that looks like **4 live client platforms** (an e-commerce store, an events platform, a ministry site and a design portfolio), an **84-page Next.js site** I run end to end at [zacharyhutton.online](https://zacharyhutton.online), and live Telegram bots on **Railway** — with JWT, HMAC signing, rate limits, and validation treated as defaults, not afterthoughts.
 
 <table>
 <tr>
@@ -182,12 +182,13 @@ E-commerce REST API — auth, inventory, cart, checkout, order hooks.
 
 | Project | What it does | Access |
 |:--------|:-------------|:-------|
-| **weROI** | Full-stack agency platform — React UI, FastAPI backend, MongoDB, GrowthIQ AI assistant. Live at [weroi.net](https://weroi.net) | 🔒 Private source · [Live](https://weroi.net) |
+| **KHutton Collections** | Live fashion online store — catalog, cart and checkout | 🔒 Private · [Live](https://khuttoncollections.com) |
+| **Orchid Gold Interiors** | Live interior design portfolio site | 🔒 Private · [Live](https://orchidgoldinteriors.com) |
 | **devOS** | Workflow system for websites — internal tooling to run site ops and content pipelines | 🔒 Private |
 | **JMobile Tech** | Business site + tooling for mobile repair / tech services branding | 🔒 Private |
 | **Northern Elite** | Client website built while practicing the devOS workflow stack | 🔒 Private |
-| **Phone Store 3D / 4D** | Interactive 3D storefront prototypes for the weROI phone-store concept (Next.js) | 🔒 Private |
-| **wehfigo** | Client website rebuild | 🔒 Private |
+| **Phone Store 3D / 4D** | Interactive 3D storefront prototypes for a phone-store concept (Next.js) | 🔒 Private |
+| **WehFiGo** | Live Jamaican events platform — listings, discovery and blog | 🔒 Private · [Live](https://wehfigo.com) |
 | **PNTCOG Platform** | Live ministry site — events, giving, prayer workflows | Public · [Live](https://portmorentcog.org) · [Repo](https://github.com/zacharyahutton/pntcog-website) |
 | **ds-java-labs** | Data structures from scratch with JUnit + Big-O notes | Public · [Repo](https://github.com/zacharyahutton/ds-java-labs) |
 
@@ -280,7 +281,7 @@ E-commerce REST API — auth, inventory, cart, checkout, order hooks.
 ```diff
 + Production APIs with signed webhooks & observability
 + AI-assisted product features (Groq / LLM tool calling)
-+ Agency & client platforms with real deploy pipelines
++ Client platforms with real deploy pipelines & SEO built in
 ! Open to sharp internship / co-op roles
 ```
 

@@ -14,6 +14,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-zacharyhutton.online-020617?style=for-the-badge&logo=safari&logoColor=f59e0b)](https://zacharyhutton.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-hutton-a2ab81415/)
 [![Email](https://img.shields.io/badge/Email-zacharyhuttonworks%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zacharyhuttonworks@gmail.com)
 
@@ -150,6 +151,7 @@ Also: [studysync-api](https://github.com/zacharyahutton/studysync-api) (FastAPI,
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0f766e?style=for-the-badge&logo=vercel&logoColor=f59e0b)](https://zacharyhutton.online)
 [![Email](https://img.shields.io/badge/Email%20me-f59e0b?style=for-the-badge&logo=gmail&logoColor=0f172a)](mailto:zacharyhuttonworks@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-hutton-a2ab81415/)
 
